@@ -17,6 +17,13 @@ Internship Category - Data Science and Business Analytics
 2. Use R or Python or perform this task.  
 3. Data can be found at https://bit.ly/3cGyP8j  
 
+### Task 4 - Exploratory Data Analysis on Global Terrorism Dataset (Level - Intermediate)  
+
+1. Perform Exploratory Data Analysis on dataset Global Terrorism.  
+2. As a security/defense analyst, try to find out the hot zone of terrorism.  
+3. What all security issues and insights you can derive by EDA?  
+4. Data can be found at https://bit.ly/2TK5Xn5
+
 ### Task 6 - Prediction using Decision Tree Algorithm (Level - Intermediate)  
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
